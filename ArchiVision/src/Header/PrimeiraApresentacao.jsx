@@ -11,8 +11,8 @@ export default function PrimeiraApresentacao(){
                     </div>
                     <div>
                         <ul>
-                            <li><a href="#">SOBRE</a></li>
-                            <li><a href="#">SERVIÇOS</a></li>
+                            <li><a style={{ color: 'rgb(211, 183, 0)' }} href="#">HOME</a></li>
+                            <li><a href="#servicos">SERVIÇOS</a></li>
                             <li><a href="#">PROJETOS</a></li>
                             <li><a href="#">BLOG</a></li>
                             <li><a href="#">CONTATO</a></li>
